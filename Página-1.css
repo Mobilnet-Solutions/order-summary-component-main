@@ -1,0 +1,54 @@
+ .u-section-1 {
+  background-image: url("images/pattern-background-desktop.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 730px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 187px;
+  width: 260px;
+  background-image: url("images/illustration-hero.svg");
+  margin: 243px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 260px;
+  margin: -175px 59px 60px auto;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 142px;
+  background-image: url("images/illustration-hero.svg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 740px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 303px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+    margin-top: -235px;
+  }
+}
